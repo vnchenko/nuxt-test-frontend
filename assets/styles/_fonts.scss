@@ -1,16 +1,5 @@
 @font-face {
   font-family: 'Proxima Nova';
-  src: url('@/assets/fonts/ProximaNova/ProximaNova-Light.eot');
-  src: url('@/assets/fonts/ProximaNova/ProximaNova-Light.eot') format('embedded-opentype'),
-    url('@/assets/fonts/ProximaNova/ProximaNova-Light.woff') format('woff'),
-    url('@/assets/fonts/ProximaNova/ProximaNova-Light.ttf') format('truetype');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Proxima Nova';
   src: url('@/assets/fonts/ProximaNova/ProximaNova-Regular.eot');
   src: url('@/assets/fonts/ProximaNova/ProximaNova-Regular.eot') format('embedded-opentype'),
     url('@/assets/fonts/ProximaNova/ProximaNova-Regular.woff') format('woff'),
