@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('@/assets/fonts/ProximaNova/ProximaNova-Light.eot');
+  src: url('@/assets/fonts/ProximaNova/ProximaNova-Light.eot') format('embedded-opentype'),
+    url('@/assets/fonts/ProximaNova/ProximaNova-Light.woff') format('woff'),
+    url('@/assets/fonts/ProximaNova/ProximaNova-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('@/assets/fonts/ProximaNova/ProximaNova-Regular.eot');
+  src: url('@/assets/fonts/ProximaNova/ProximaNova-Regular.eot') format('embedded-opentype'),
+    url('@/assets/fonts/ProximaNova/ProximaNova-Regular.woff') format('woff'),
+    url('@/assets/fonts/ProximaNova/ProximaNova-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('@/assets/fonts/ProximaNova/ProximaNova-Semibold.eot');
+  src: url('@/assets/fonts/ProximaNova/ProximaNova-Semibold.eot') format('embedded-opentype'),
+    url('@/assets/fonts/ProximaNova/ProximaNova-Semibold.woff') format('woff'),
+    url('@/assets/fonts/ProximaNova/ProximaNova-Semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('@/assets/fonts/ProximaNova/ProximaNova-Bold.eot');
+  src: url('@/assets/fonts/ProximaNova/ProximaNova-Bold.eot') format('embedded-opentype'),
+    url('@/assets/fonts/ProximaNova/ProximaNova-Bold.woff') format('woff'),
+    url('@/assets/fonts/ProximaNova/ProximaNova-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Proxima Nova';
+  src: url('@/assets/fonts/ProximaNova/ProximaNova-Extrabld.eot');
+  src: url('@/assets/fonts/ProximaNova/ProximaNova-Extrabld.eot') format('embedded-opentype'),
+    url('@/assets/fonts/ProximaNova/ProximaNova-Extrabld.woff') format('woff'),
+    url('@/assets/fonts/ProximaNova/ProximaNova-Extrabld.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Intro';
+  src: url('@/assets/fonts/Intro/Intro-Regular.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}

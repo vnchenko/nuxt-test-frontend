@@ -1,6 +1,5 @@
 <template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
+  <main class="tw-min-h-[100dvh]">
+    <nuxt-page class="tw-min-h-[100dvh]" />
+  </main>
 </template>

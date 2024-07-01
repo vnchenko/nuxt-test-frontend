@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+span.nuxt-icon svg {
+  @apply tw-mb-0;
+}

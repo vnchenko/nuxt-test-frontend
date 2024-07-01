@@ -1,0 +1,9 @@
+{
+  "stylelint.validate": [
+    "vue"
+  ],
+  "scss.lint.unknownAtRules": "ignore",
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "eslint.run": "onSave"
+}
